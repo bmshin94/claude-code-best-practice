@@ -492,6 +492,7 @@ Repos primarily known as curated libraries of subagent definitions (`.claude/age
   <a href="reports/llm-day-to-day-degradation.md"><img src="https://img.shields.io/badge/LLM_Degradation-555?style=for-the-badge" alt="LLM Degradation"></a>
   <a href="reports/why-harness-is-important.md"><img src="https://img.shields.io/badge/Why_Harness_is_Important-555?style=for-the-badge" alt="Why Harness is Important"></a>
   <a href="reports/claude-spinner-verbs-and-tips.md"><img src="https://img.shields.io/badge/Spinner_Verbs_&_Tips-555?style=for-the-badge" alt="Spinner Verbs & Tips"></a>
+  <a href="reports/claude-code-best-practice-analysis-ko.md"><img src="https://img.shields.io/badge/Repo_Analysis_(KO)-555?style=for-the-badge" alt="Repo Analysis Korean"></a>
 </p>
 
 <p align="center">
